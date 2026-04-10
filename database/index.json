@@ -1,0 +1,2947 @@
+{
+  "metadata": {
+    "title": "Google Cloud索引",
+    "total_entries": 447,
+    "source_files": [
+      "1.txt",
+      "2.txt",
+      "3.txt",
+      "4.txt"
+    ]
+  },
+  "index": [
+    {
+      "term": "_Default",
+      "pages": [
+        56
+      ]
+    },
+    {
+      "term": "_Required",
+      "pages": [
+        56
+      ]
+    },
+    {
+      "term": "AB テスト",
+      "pages": [
+        94,
+        97,
+        197,
+        198
+      ]
+    },
+    {
+      "term": "Access Approval",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "term": "ACL",
+      "pages": [
+        128
+      ]
+    },
+    {
+      "term": "Active Directory 連携",
+      "pages": [
+        47
+      ]
+    },
+    {
+      "term": "allAuthenticatedUsers",
+      "pages": [
+        39
+      ]
+    },
+    {
+      "term": "allUsers",
+      "pages": [
+        39,
+        241
+      ]
+    },
+    {
+      "term": "Anthos",
+      "pages": [
+        95
+      ]
+    },
+    {
+      "term": "Apache Beam",
+      "pages": [
+        140
+      ]
+    },
+    {
+      "term": "Apache HBase",
+      "pages": [
+        205
+      ]
+    },
+    {
+      "term": "Apache HBase クラスタ",
+      "pages": [
+        120
+      ]
+    },
+    {
+      "term": "Apache Spark / Hadoop クラスタ",
+      "pages": [
+        141,
+        215
+      ]
+    },
+    {
+      "term": "API",
+      "pages": [
+        232,
+        234
+      ]
+    },
+    {
+      "term": "App Engine",
+      "pages": [
+        26,
+        68,
+        96,
+        101,
+        197
+      ]
+    },
+    {
+      "term": "Archive ストレージ",
+      "pages": [
+        127
+      ]
+    },
+    {
+      "term": "Artifact Registry",
+      "pages": [
+        90
+      ]
+    },
+    {
+      "term": "Autopilot モード",
+      "pages": [
+        86
+      ]
+    },
+    {
+      "term": "BigQuery",
+      "pages": [
+        27,
+        135,
+        142,
+        207,
+        242,
+        275
+      ]
+    },
+    {
+      "term": "BigQuery Editions",
+      "pages": [
+        244
+      ]
+    },
+    {
+      "term": "BigQuery ML",
+      "pages": [
+        207
+      ]
+    },
+    {
+      "term": "Bigtable",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "BI ツール",
+      "pages": [
+        207
+      ]
+    },
+    {
+      "term": "BQ",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "bq",
+      "pages": [
+        275
+      ]
+    },
+    {
+      "term": "bq extract",
+      "pages": [
+        277
+      ]
+    },
+    {
+      "term": "bq query",
+      "pages": [
+        276
+      ]
+    },
+    {
+      "term": "bq query の --dry_run オプション",
+      "pages": [
+        244
+      ]
+    },
+    {
+      "term": "CA",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "CDN",
+      "pages": [
+        28,
+        165,
+        210
+      ]
+    },
+    {
+      "term": "Cloud Audit Logs",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "term": "Cloud Bigtable",
+      "pages": [
+        27,
+        119,
+        132,
+        203
+      ]
+    },
+    {
+      "term": "Cloud CDN",
+      "pages": [
+        28,
+        165,
+        171,
+        210
+      ]
+    },
+    {
+      "term": "Cloud Datastore",
+      "pages": [
+        122,
+        206
+      ]
+    },
+    {
+      "term": "Cloud Deployment Manager",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "term": "Cloud DNS",
+      "pages": [
+        28,
+        166,
+        171
+      ]
+    },
+    {
+      "term": "Cloud Functions",
+      "pages": [
+        27,
+        68,
+        99,
+        101,
+        198,
+        241
+      ]
+    },
+    {
+      "term": "Cloud Identity",
+      "pages": [
+        26,
+        35,
+        38,
+        46,
+        49
+      ]
+    },
+    {
+      "term": "Cloud Interconnect",
+      "pages": [
+        28,
+        169,
+        171,
+        218
+      ]
+    },
+    {
+      "term": "Cloud Load Balancing",
+      "pages": [
+        28,
+        75,
+        160,
+        171
+      ]
+    },
+    {
+      "term": "Cloud Logging",
+      "pages": [
+        28,
+        60,
+        172,
+        179,
+        245
+      ]
+    },
+    {
+      "term": "Cloud Marketplace",
+      "pages": [
+        29,
+        245
+      ]
+    },
+    {
+      "term": "Cloud Monitoring",
+      "pages": [
+        29,
+        53,
+        174,
+        179,
+        238
+      ]
+    },
+    {
+      "term": "Cloud NAT",
+      "pages": [
+        28,
+        167,
+        171
+      ]
+    },
+    {
+      "term": "Cloud Operations for GKE",
+      "pages": [
+        174,
+        177
+      ]
+    },
+    {
+      "term": "Cloud Profiler",
+      "pages": [
+        29,
+        178,
+        179
+      ]
+    },
+    {
+      "term": "Cloud Pub/Sub",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "Cloud Run",
+      "pages": [
+        26,
+        67,
+        92,
+        101,
+        197,
+        241
+      ]
+    },
+    {
+      "term": "Cloud Run for Anthos",
+      "pages": [
+        95
+      ]
+    },
+    {
+      "term": "Cloud Shell",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "term": "Cloud Spanner",
+      "pages": [
+        27,
+        117,
+        132,
+        202
+      ]
+    },
+    {
+      "term": "Cloud SQL",
+      "pages": [
+        27,
+        112,
+        132,
+        201
+      ]
+    },
+    {
+      "term": "Cloud Storage",
+      "pages": [
+        27,
+        123,
+        133,
+        209,
+        265
+      ]
+    },
+    {
+      "term": "Cloud Storage トリガー",
+      "pages": [
+        100
+      ]
+    },
+    {
+      "term": "Cloud Storage バケット",
+      "pages": [
+        70
+      ]
+    },
+    {
+      "term": "Cloud Trace",
+      "pages": [
+        29,
+        178,
+        179
+      ]
+    },
+    {
+      "term": "Cloud VPN",
+      "pages": [
+        28,
+        168,
+        171,
+        218
+      ]
+    },
+    {
+      "term": "Cloud 請求先アカウント",
+      "pages": [
+        50
+      ]
+    },
+    {
+      "term": "Coldline ストレージ",
+      "pages": [
+        127
+      ]
+    },
+    {
+      "term": "Compute Engine",
+      "pages": [
+        26,
+        66,
+        68,
+        101,
+        194,
+        236
+      ]
+    },
+    {
+      "term": "Compute 閲覧者",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "term": "Compute 管理者",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "term": "Config Connector",
+      "pages": [
+        29,
+        182
+      ]
+    },
+    {
+      "term": "Database Migration Service",
+      "pages": [
+        201
+      ]
+    },
+    {
+      "term": "Dataflow",
+      "pages": [
+        28,
+        140,
+        142,
+        214
+      ]
+    },
+    {
+      "term": "Dataproc",
+      "pages": [
+        28,
+        141,
+        142,
+        215
+      ]
+    },
+    {
+      "term": "Datastore",
+      "pages": [
+        27,
+        132,
+        206
+      ]
+    },
+    {
+      "term": "Datastore モード",
+      "pages": [
+        122
+      ]
+    },
+    {
+      "term": "Deployment",
+      "pages": [
+        83
+      ]
+    },
+    {
+      "term": "Deployment Manager",
+      "pages": [
+        29,
+        181
+      ]
+    },
+    {
+      "term": "DNS",
+      "pages": [
+        28,
+        166
+      ]
+    },
+    {
+      "term": "ESP",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "ETL",
+      "pages": [
+        135
+      ]
+    },
+    {
+      "term": "Filestore",
+      "pages": [
+        27,
+        130,
+        133,
+        211
+      ]
+    },
+    {
+      "term": "Firestore",
+      "pages": [
+        27,
+        121,
+        132,
+        205
+      ]
+    },
+    {
+      "term": "GAE",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "term": "GCE",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "term": "GCF",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "GCLB",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "term": "gcloud app deploy",
+      "pages": [
+        263
+      ]
+    },
+    {
+      "term": "gcloud CLI",
+      "pages": [
+        254
+      ]
+    },
+    {
+      "term": "gcloud compute instances create",
+      "pages": [
+        258
+      ]
+    },
+    {
+      "term": "gcloud compute networks create",
+      "pages": [
+        259
+      ]
+    },
+    {
+      "term": "gcloud compute networks subnets create",
+      "pages": [
+        260
+      ]
+    },
+    {
+      "term": "gcloud compute networks subnets expand-ip-range",
+      "pages": [
+        261
+      ]
+    },
+    {
+      "term": "gcloud compute ssh",
+      "pages": [
+        259
+      ]
+    },
+    {
+      "term": "gcloud config configurations",
+      "pages": [
+        256
+      ]
+    },
+    {
+      "term": "gcloud config set",
+      "pages": [
+        258
+      ]
+    },
+    {
+      "term": "GCS",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "GKE",
+      "pages": [
+        26,
+        81,
+        195,
+        237
+      ]
+    },
+    {
+      "term": "GKE クラスタ",
+      "pages": [
+        89,
+        269
+      ]
+    },
+    {
+      "term": "Google App Engine",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "term": "Google Cloud",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "term": "Google Cloud Deployment Manager",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "term": "Google Cloud Directory Sync",
+      "pages": [
+        47
+      ]
+    },
+    {
+      "term": "Google Cloud Functions",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "Google Cloud Marketplace",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "term": "Google Cloud Pricing Calculator",
+      "pages": [
+        52,
+        192
+      ]
+    },
+    {
+      "term": "Google Cloud Storage",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "Google Cloud VMware Engine",
+      "pages": [
+        235
+      ]
+    },
+    {
+      "term": "Google Cloud コンソール",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "term": "Google Cloud サービスの指標",
+      "pages": [
+        175
+      ]
+    },
+    {
+      "term": "Google Cloud ダッシュボード",
+      "pages": [
+        176
+      ]
+    },
+    {
+      "term": "Google Compute Engine",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "term": "Google Kubernetes Engine",
+      "pages": [
+        26,
+        67,
+        81,
+        101,
+        195,
+        237
+      ]
+    },
+    {
+      "term": "Google Workspace",
+      "pages": [
+        35,
+        38,
+        46,
+        49,
+        171,
+        219
+      ]
+    },
+    {
+      "term": "Google アカウント",
+      "pages": [
+        35,
+        38
+      ]
+    },
+    {
+      "term": "Google 管理サービスアカウント",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "term": "Google グループ",
+      "pages": [
+        35,
+        38
+      ]
+    },
+    {
+      "term": "gsutil",
+      "pages": [
+        265
+      ]
+    },
+    {
+      "term": "gsutil cp",
+      "pages": [
+        266
+      ]
+    },
+    {
+      "term": "gsutil ls",
+      "pages": [
+        267
+      ]
+    },
+    {
+      "term": "gsutil mb",
+      "pages": [
+        266
+      ]
+    },
+    {
+      "term": "gsutil mv",
+      "pages": [
+        268
+      ]
+    },
+    {
+      "term": "Hadoop 分散ファイルシステム",
+      "pages": [
+        141,
+        216
+      ]
+    },
+    {
+      "term": "HBase",
+      "pages": [
+        120,
+        205
+      ]
+    },
+    {
+      "term": "HDFS",
+      "pages": [
+        141,
+        216
+      ]
+    },
+    {
+      "term": "HPA",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "HTTP(S)",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "HTTP トリガー",
+      "pages": [
+        100
+      ]
+    },
+    {
+      "term": "IaC",
+      "pages": [
+        180
+      ]
+    },
+    {
+      "term": "IAM",
+      "pages": [
+        26,
+        34,
+        60
+      ]
+    },
+    {
+      "term": "ICMP",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "Identity and Access Management",
+      "pages": [
+        26,
+        34
+      ]
+    },
+    {
+      "term": "Infrastructure as Code",
+      "pages": [
+        180
+      ]
+    },
+    {
+      "term": "Interconnect",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "term": "invoker",
+      "pages": [
+        241
+      ]
+    },
+    {
+      "term": "IoT データ",
+      "pages": [
+        120
+      ]
+    },
+    {
+      "term": "IoT デバイス",
+      "pages": [
+        199,
+        204
+      ]
+    },
+    {
+      "term": "IP アドレス",
+      "pages": [
+        153
+      ]
+    },
+    {
+      "term": "Key-Value 型",
+      "pages": [
+        111
+      ]
+    },
+    {
+      "term": "kubectl",
+      "pages": [
+        269
+      ]
+    },
+    {
+      "term": "kubectl apply",
+      "pages": [
+        272
+      ]
+    },
+    {
+      "term": "kubectl describe",
+      "pages": [
+        271
+      ]
+    },
+    {
+      "term": "kubectl exec",
+      "pages": [
+        272
+      ]
+    },
+    {
+      "term": "kubectl expose",
+      "pages": [
+        273
+      ]
+    },
+    {
+      "term": "kubectl get",
+      "pages": [
+        270
+      ]
+    },
+    {
+      "term": "kubectl scale",
+      "pages": [
+        273
+      ]
+    },
+    {
+      "term": "Kubeflow",
+      "pages": [
+        196
+      ]
+    },
+    {
+      "term": "Kubernetes",
+      "pages": [
+        81
+      ]
+    },
+    {
+      "term": "Kubernetes Engine",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "term": "Kubernetes クラスタ",
+      "pages": [
+        269
+      ]
+    },
+    {
+      "term": "Log Analytics",
+      "pages": [
+        173
+      ]
+    },
+    {
+      "term": "Logging",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "term": "Memcached",
+      "pages": [
+        122,
+        206
+      ]
+    },
+    {
+      "term": "Memorystore",
+      "pages": [
+        27,
+        122,
+        133,
+        206
+      ]
+    },
+    {
+      "term": "MIG",
+      "pages": [
+        75
+      ]
+    },
+    {
+      "term": "Monitoring",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "term": "NAP",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "NAT",
+      "pages": [
+        28,
+        167
+      ]
+    },
+    {
+      "term": "Native モード",
+      "pages": [
+        121
+      ]
+    },
+    {
+      "term": "Nearline ストレージ",
+      "pages": [
+        127
+      ]
+    },
+    {
+      "term": "NoSQL データベース",
+      "pages": [
+        111
+      ]
+    },
+    {
+      "term": "OpenCensus",
+      "pages": [
+        178
+      ]
+    },
+    {
+      "term": "OpenCensus 指標",
+      "pages": [
+        176
+      ]
+    },
+    {
+      "term": "OpenTelemetry",
+      "pages": [
+        178
+      ]
+    },
+    {
+      "term": "Operations suite",
+      "pages": [
+        172
+      ]
+    },
+    {
+      "term": "Ops エージェント",
+      "pages": [
+        174
+      ]
+    },
+    {
+      "term": "Ops エージェントの指標",
+      "pages": [
+        177
+      ]
+    },
+    {
+      "term": "OS Login",
+      "pages": [
+        74
+      ]
+    },
+    {
+      "term": "Partner Interconnect",
+      "pages": [
+        169,
+        218
+      ]
+    },
+    {
+      "term": "Pod",
+      "pages": [
+        82
+      ]
+    },
+    {
+      "term": "Profiler",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "term": "Pub/Sub",
+      "pages": [
+        27,
+        139,
+        142
+      ]
+    },
+    {
+      "term": "Pub/Sub トリガー",
+      "pages": [
+        100
+      ]
+    },
+    {
+      "term": "Redis",
+      "pages": [
+        122,
+        206
+      ]
+    },
+    {
+      "term": "ReplicaSet",
+      "pages": [
+        83
+      ]
+    },
+    {
+      "term": "root",
+      "pages": [
+        239
+      ]
+    },
+    {
+      "term": "Service",
+      "pages": [
+        84
+      ]
+    },
+    {
+      "term": "Spanner",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "term": "Spark / Hadoop クラスタ",
+      "pages": [
+        141,
+        215
+      ]
+    },
+    {
+      "term": "Spot VM",
+      "pages": [
+        74
+      ]
+    },
+    {
+      "term": "SSL",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "Stackdriver",
+      "pages": [
+        172
+      ]
+    },
+    {
+      "term": "Standard ストレージ",
+      "pages": [
+        126
+      ]
+    },
+    {
+      "term": "Standard モード",
+      "pages": [
+        86
+      ]
+    },
+    {
+      "term": "StatefulSet",
+      "pages": [
+        84
+      ]
+    },
+    {
+      "term": "Storage Transfer Service",
+      "pages": [
+        132
+      ]
+    },
+    {
+      "term": "TCP",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "Terraform",
+      "pages": [
+        181
+      ]
+    },
+    {
+      "term": "Trace",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "term": "Transfer Appliance",
+      "pages": [
+        27,
+        131,
+        133
+      ]
+    },
+    {
+      "term": "Data",
+      "pages": [
+        132
+      ]
+    },
+    {
+      "term": "UDP",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "vCPU",
+      "pages": [
+        66
+      ]
+    },
+    {
+      "term": "Virtual Private Cloud",
+      "pages": [
+        28,
+        150,
+        171
+      ]
+    },
+    {
+      "term": "VM インスタンス",
+      "pages": [
+        68
+      ]
+    },
+    {
+      "term": "VPA",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "VPC",
+      "pages": [
+        28,
+        150,
+        171
+      ]
+    },
+    {
+      "term": "VPC Service Controls",
+      "pages": [
+        55,
+        56,
+        159
+      ]
+    },
+    {
+      "term": "VPCSC",
+      "pages": [
+        159
+      ]
+    },
+    {
+      "term": "VPC ネットワークピアリング",
+      "pages": [
+        158
+      ]
+    },
+    {
+      "term": "VPN",
+      "pages": [
+        28,
+        168
+      ]
+    },
+    {
+      "term": "VPN ゲートウェイ",
+      "pages": [
+        168
+      ]
+    },
+    {
+      "term": "Workload Identity",
+      "pages": [
+        89
+      ]
+    },
+    {
+      "term": "アクセス承認者",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "term": "アクセス制御",
+      "pages": [
+        49,
+        60,
+        128
+      ]
+    },
+    {
+      "term": "アクセス制御リスト",
+      "pages": [
+        128
+      ]
+    },
+    {
+      "term": "アクセラレータ最適化（マシンファミリー）",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "term": "アラート",
+      "pages": [
+        52,
+        176
+      ]
+    },
+    {
+      "term": "暗黙の下り（外向き）許可ルール",
+      "pages": [
+        156
+      ]
+    },
+    {
+      "term": "暗黙の上り（内向き）拒否ルール",
+      "pages": [
+        156
+      ]
+    },
+    {
+      "term": "一般公開ゾーン",
+      "pages": [
+        167
+      ]
+    },
+    {
+      "term": "イメージ",
+      "pages": [
+        71
+      ]
+    },
+    {
+      "term": "インスタンス",
+      "pages": [
+        68,
+        79,
+        113
+      ]
+    },
+    {
+      "term": "インスタンススケジュール",
+      "pages": [
+        236
+      ]
+    },
+    {
+      "term": "インスタンステンプレート",
+      "pages": [
+        75,
+        79,
+        80
+      ]
+    },
+    {
+      "term": "ウォームアップリクエスト",
+      "pages": [
+        98
+      ]
+    },
+    {
+      "term": "運用コスト",
+      "pages": [
+        193
+      ]
+    },
+    {
+      "term": "運用モード",
+      "pages": [
+        86
+      ]
+    },
+    {
+      "term": "永続ディスク",
+      "pages": [
+        70,
+        71,
+        212
+      ]
+    },
+    {
+      "term": "永続ボリューム",
+      "pages": [
+        84
+      ]
+    },
+    {
+      "term": "閲覧者",
+      "pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "term": "エフェメラル IP アドレス",
+      "pages": [
+        153
+      ]
+    },
+    {
+      "term": "オーナー",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "term": "オブジェクト",
+      "pages": [
+        82,
+        85,
+        124
+      ]
+    },
+    {
+      "term": "オンデマンドバックアップ",
+      "pages": [
+        116
+      ]
+    },
+    {
+      "term": "階層型ファイアウォールポリシー",
+      "pages": [
+        156
+      ]
+    },
+    {
+      "term": "開発コスト",
+      "pages": [
+        193
+      ]
+    },
+    {
+      "term": "外部 IP アドレス",
+      "pages": [
+        153
+      ]
+    },
+    {
+      "term": "外部テーブル",
+      "pages": [
+        137
+      ]
+    },
+    {
+      "term": "外部ロードバランサ",
+      "pages": [
+        161,
+        162
+      ]
+    },
+    {
+      "term": "課金データのエクスポート",
+      "pages": [
+        54
+      ]
+    },
+    {
+      "term": "確約利用割引",
+      "pages": [
+        235
+      ]
+    },
+    {
+      "term": "カスタムイメージ",
+      "pages": [
+        71,
+        79,
+        80
+      ]
+    },
+    {
+      "term": "カスタムコスト管理",
+      "pages": [
+        244
+      ]
+    },
+    {
+      "term": "カスタム指標",
+      "pages": [
+        175
+      ]
+    },
+    {
+      "term": "カスタムダッシュボード",
+      "pages": [
+        176
+      ]
+    },
+    {
+      "term": "カスタムマシンタイプ",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "term": "カスタムロール",
+      "pages": [
+        35,
+        43
+      ]
+    },
+    {
+      "term": "仮想マシン",
+      "pages": [
+        66
+      ]
+    },
+    {
+      "term": "稼働時間チェック",
+      "pages": [
+        177
+      ]
+    },
+    {
+      "term": "カナリアリリース",
+      "pages": [
+        94,
+        97,
+        197,
+        198
+      ]
+    },
+    {
+      "term": "可用性タイプ",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "監査ログ",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "term": "監査ログのアクセス制御",
+      "pages": [
+        60
+      ]
+    },
+    {
+      "term": "関数",
+      "pages": [
+        99,
+        198
+      ]
+    },
+    {
+      "term": "管理アクティビティ監査ログ",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "term": "管理者",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "term": "機械学習",
+      "pages": [
+        196,
+        207
+      ]
+    },
+    {
+      "term": "基本ロール",
+      "pages": [
+        35,
+        41
+      ]
+    },
+    {
+      "term": "キャリアピアリング",
+      "pages": [
+        171,
+        219
+      ]
+    },
+    {
+      "term": "行キー",
+      "pages": [
+        120
+      ]
+    },
+    {
+      "term": "共有 VPC",
+      "pages": [
+        157
+      ]
+    },
+    {
+      "term": "許可ポリシー",
+      "pages": [
+        34,
+        35,
+        43
+      ]
+    },
+    {
+      "term": "クォータ",
+      "pages": [
+        232
+      ]
+    },
+    {
+      "term": "組み込み指標",
+      "pages": [
+        175
+      ]
+    },
+    {
+      "term": "クラスタ",
+      "pages": [
+        81,
+        89
+      ]
+    },
+    {
+      "term": "クラスタオートスケーラー",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "クラスタ化テーブル",
+      "pages": [
+        138
+      ]
+    },
+    {
+      "term": "クラスタの運用モード",
+      "pages": [
+        86
+      ]
+    },
+    {
+      "term": "クラスタの可用性タイプ",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "クラスタリング",
+      "pages": [
+        137,
+        138,
+        243
+      ]
+    },
+    {
+      "term": "グローバルネットワークファイアウォールポリシー",
+      "pages": [
+        156
+      ]
+    },
+    {
+      "term": "グローバルロードバランサ",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "クロスリージョンリードレプリカ",
+      "pages": [
+        115
+      ]
+    },
+    {
+      "term": "継承",
+      "pages": [
+        44
+      ]
+    },
+    {
+      "term": "継続利用割引",
+      "pages": [
+        236
+      ]
+    },
+    {
+      "term": "権限",
+      "pages": [
+        40
+      ]
+    },
+    {
+      "term": "限定公開クラスタ",
+      "pages": [
+        89
+      ]
+    },
+    {
+      "term": "限定公開ゾーン",
+      "pages": [
+        167
+      ]
+    },
+    {
+      "term": "限定公開の Google アクセス",
+      "pages": [
+        158
+      ]
+    },
+    {
+      "term": "公開アクセスの防止",
+      "pages": [
+        130
+      ]
+    },
+    {
+      "term": "公開イメージ",
+      "pages": [
+        71,
+        79,
+        80
+      ]
+    },
+    {
+      "term": "公開鍵",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "term": "高可用性（HA）構成",
+      "pages": [
+        112,
+        114
+      ]
+    },
+    {
+      "term": "構造化データ",
+      "pages": [
+        110
+      ]
+    },
+    {
+      "term": "コールドスタート",
+      "pages": [
+        94
+      ]
+    },
+    {
+      "term": "コスト管理",
+      "pages": [
+        50,
+        234,
+        244
+      ]
+    },
+    {
+      "term": "コンテナ",
+      "pages": [
+        67
+      ]
+    },
+    {
+      "term": "コンテナイメージ",
+      "pages": [
+        90,
+        240
+      ]
+    },
+    {
+      "term": "コントロールプレーン",
+      "pages": [
+        81,
+        83
+      ]
+    },
+    {
+      "term": "コンピューティング最適化（マシンファミリー）",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "term": "サーバーレス",
+      "pages": [
+        68
+      ]
+    },
+    {
+      "term": "サービス",
+      "pages": [
+        93
+      ]
+    },
+    {
+      "term": "サービスアカウント",
+      "pages": [
+        35,
+        36,
+        73
+      ]
+    },
+    {
+      "term": "サービスアカウントキー",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "term": "サービスプロジェクト",
+      "pages": [
+        157
+      ]
+    },
+    {
+      "term": "最小権限の原則",
+      "pages": [
+        36,
+        49,
+        73,
+        89,
+        155
+      ]
+    },
+    {
+      "term": "最小保存期間",
+      "pages": [
+        126
+      ]
+    },
+    {
+      "term": "作成者",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "term": "サブスクライバー",
+      "pages": [
+        139
+      ]
+    },
+    {
+      "term": "サブネット",
+      "pages": [
+        151,
+        260
+      ]
+    },
+    {
+      "term": "サブネット拡張",
+      "pages": [
+        152,
+        261
+      ]
+    },
+    {
+      "term": "サブネット作成モード",
+      "pages": [
+        151
+      ]
+    },
+    {
+      "term": "時系列データ",
+      "pages": [
+        120,
+        204
+      ]
+    },
+    {
+      "term": "システムイベント監査ログ",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "term": "事前定義のマシンタイプ",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "term": "事前定義ロール",
+      "pages": [
+        35,
+        42,
+        51,
+        60
+      ]
+    },
+    {
+      "term": "自動修復",
+      "pages": [
+        75
+      ]
+    },
+    {
+      "term": "自動スケーリング",
+      "pages": [
+        76,
+        87,
+        94,
+        97,
+        100
+      ]
+    },
+    {
+      "term": "自動バックアップ",
+      "pages": [
+        116
+      ]
+    },
+    {
+      "term": "指標",
+      "pages": [
+        175,
+        177
+      ]
+    },
+    {
+      "term": "集約シンク",
+      "pages": [
+        57
+      ]
+    },
+    {
+      "term": "ジョブ",
+      "pages": [
+        93,
+        136
+      ]
+    },
+    {
+      "term": "署名付き URL",
+      "pages": [
+        129,
+        209
+      ]
+    },
+    {
+      "term": "シリアルコンソール",
+      "pages": [
+        74
+      ]
+    },
+    {
+      "term": "シンク",
+      "pages": [
+        57,
+        172
+      ]
+    },
+    {
+      "term": "シングルゾーンクラスタ",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "垂直ポッド自動スケーリング",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "水平スケーリング",
+      "pages": [
+        203
+      ]
+    },
+    {
+      "term": "水平ポッド自動スケーリング",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "スタンダード環境",
+      "pages": [
+        96
+      ]
+    },
+    {
+      "term": "スタンバイインスタンス",
+      "pages": [
+        114
+      ]
+    },
+    {
+      "term": "ステートフル MIG",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "term": "ステートフルアプリケーション",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "term": "ステートレス",
+      "pages": [
+        238
+      ]
+    },
+    {
+      "term": "ステートレスアプリケーション",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "term": "ストリーミング処理",
+      "pages": [
+        215
+      ]
+    },
+    {
+      "term": "ストレージオブジェクト閲覧者",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "term": "ストレージオブジェクト管理者",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "term": "ストレージオブジェクト作成者",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "term": "ストレージオプション",
+      "pages": [
+        71
+      ]
+    },
+    {
+      "term": "ストレージクラス",
+      "pages": [
+        126
+      ]
+    },
+    {
+      "term": "スナップショット",
+      "pages": [
+        72,
+        79,
+        80
+      ]
+    },
+    {
+      "term": "スプリット",
+      "pages": [
+        118
+      ]
+    },
+    {
+      "term": "請求先アカウント",
+      "pages": [
+        50
+      ]
+    },
+    {
+      "term": "請求先アカウント閲覧者",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "term": "請求先アカウント管理者",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "term": "請求先アカウント作成者",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "term": "請求先アカウントの費用管理者",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "term": "請求先アカウントユーザー",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "term": "請求レポート",
+      "pages": [
+        54
+      ]
+    },
+    {
+      "term": "静的 IP アドレス",
+      "pages": [
+        153
+      ]
+    },
+    {
+      "term": "静的 Web サイト",
+      "pages": [
+        210
+      ]
+    },
+    {
+      "term": "ゼロスケーリング",
+      "pages": [
+        94
+      ]
+    },
+    {
+      "term": "ゾーン",
+      "pages": [
+        20,
+        21,
+        166
+      ]
+    },
+    {
+      "term": "ゾーン MIG",
+      "pages": [
+        76
+      ]
+    },
+    {
+      "term": "ゾーン永続ディスク",
+      "pages": [
+        70
+      ]
+    },
+    {
+      "term": "組織",
+      "pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "term": "ダイレクトピアリング",
+      "pages": [
+        171,
+        219
+      ]
+    },
+    {
+      "term": "ダッシュボード",
+      "pages": [
+        176
+      ]
+    },
+    {
+      "term": "タブレット",
+      "pages": [
+        120
+      ]
+    },
+    {
+      "term": "単一テナントノード",
+      "pages": [
+        79,
+        195
+      ]
+    },
+    {
+      "term": "データアクセス監査ログ",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "term": "データ移行",
+      "pages": [
+        131
+      ]
+    },
+    {
+      "term": "データウェアハウス",
+      "pages": [
+        135
+      ]
+    },
+    {
+      "term": "データセット",
+      "pages": [
+        136
+      ]
+    },
+    {
+      "term": "データ分析",
+      "pages": [
+        134,
+        207
+      ]
+    },
+    {
+      "term": "データベース",
+      "pages": [
+        111
+      ]
+    },
+    {
+      "term": "データベースエンジン",
+      "pages": [
+        113
+      ]
+    },
+    {
+      "term": "データベースモード",
+      "pages": [
+        121
+      ]
+    },
+    {
+      "term": "データレイク",
+      "pages": [
+        134
+      ]
+    },
+    {
+      "term": "テーブル",
+      "pages": [
+        136
+      ]
+    },
+    {
+      "term": "テーブルタイプ",
+      "pages": [
+        137
+      ]
+    },
+    {
+      "term": "デフォルトのサービスアカウント",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "term": "デュアルリージョン",
+      "pages": [
+        125
+      ]
+    },
+    {
+      "term": "テンプレート",
+      "pages": [
+        75,
+        79,
+        80,
+        181
+      ]
+    },
+    {
+      "term": "動的 Web サイト",
+      "pages": [
+        210
+      ]
+    },
+    {
+      "term": "ドキュメント型",
+      "pages": [
+        111
+      ]
+    },
+    {
+      "term": "特権付きコンテナ",
+      "pages": [
+        239
+      ]
+    },
+    {
+      "term": "ドライラン",
+      "pages": [
+        243
+      ]
+    },
+    {
+      "term": "トラフィックの分割・移行",
+      "pages": [
+        94,
+        97,
+        98
+      ]
+    },
+    {
+      "term": "トリガー",
+      "pages": [
+        100,
+        198
+      ]
+    },
+    {
+      "term": "内部 IP アドレス",
+      "pages": [
+        153
+      ]
+    },
+    {
+      "term": "内部ロードバランサ",
+      "pages": [
+        161,
+        162
+      ]
+    },
+    {
+      "term": "ネイティブテーブル",
+      "pages": [
+        137
+      ]
+    },
+    {
+      "term": "ノード",
+      "pages": [
+        81,
+        82,
+        118,
+        120
+      ]
+    },
+    {
+      "term": "ノード自動プロビジョニング",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "ノードプール",
+      "pages": [
+        88
+      ]
+    },
+    {
+      "term": "バージョニング",
+      "pages": [
+        126
+      ]
+    },
+    {
+      "term": "パーティショニング",
+      "pages": [
+        137,
+        138,
+        243
+      ]
+    },
+    {
+      "term": "パーティション分割テーブル",
+      "pages": [
+        138
+      ]
+    },
+    {
+      "term": "バケット",
+      "pages": [
+        124
+      ]
+    },
+    {
+      "term": "パススルーロードバランサ",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "バックアップ",
+      "pages": [
+        72,
+        80,
+        112,
+        115,
+        209
+      ]
+    },
+    {
+      "term": "バッチ処理",
+      "pages": [
+        214
+      ]
+    },
+    {
+      "term": "パブリッシャー",
+      "pages": [
+        139
+      ]
+    },
+    {
+      "term": "半構造化データ",
+      "pages": [
+        110
+      ]
+    },
+    {
+      "term": "汎用（マシンファミリー）",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "term": "ピアリング",
+      "pages": [
+        158,
+        171,
+        219
+      ]
+    },
+    {
+      "term": "非構造化データ",
+      "pages": [
+        110
+      ]
+    },
+    {
+      "term": "ビッグデータ",
+      "pages": [
+        134
+      ]
+    },
+    {
+      "term": "非マネージドインスタンスグループ",
+      "pages": [
+        78
+      ]
+    },
+    {
+      "term": "秘密鍵",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "term": "ビュー",
+      "pages": [
+        136,
+        137
+      ]
+    },
+    {
+      "term": "ファイアウォールポリシー",
+      "pages": [
+        156
+      ]
+    },
+    {
+      "term": "ファイアウォールルール",
+      "pages": [
+        154
+      ]
+    },
+    {
+      "term": "ファイル共有",
+      "pages": [
+        211
+      ]
+    },
+    {
+      "term": "ブートディスク",
+      "pages": [
+        70,
+        80
+      ]
+    },
+    {
+      "term": "フォルダ",
+      "pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "term": "負荷分散",
+      "pages": [
+        75,
+        160,
+        163
+      ]
+    },
+    {
+      "term": "プライベートログ閲覧者",
+      "pages": [
+        60
+      ]
+    },
+    {
+      "term": "プライマリインスタンス",
+      "pages": [
+        114
+      ]
+    },
+    {
+      "term": "プリエンプティブル VM",
+      "pages": [
+        74
+      ]
+    },
+    {
+      "term": "プリンシパル",
+      "pages": [
+        34,
+        35,
+        38
+      ]
+    },
+    {
+      "term": "フルマネージドサービス",
+      "pages": [
+        68
+      ]
+    },
+    {
+      "term": "フレキシブル環境",
+      "pages": [
+        96
+      ]
+    },
+    {
+      "term": "プロキシロードバランサ",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "プロジェクト",
+      "pages": [
+        20,
+        22
+      ]
+    },
+    {
+      "term": "プロジェクト支払い管理者",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "term": "ヘルスチェック",
+      "pages": [
+        75
+      ]
+    },
+    {
+      "term": "編集者",
+      "pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "term": "ポイントインタイムリカバリ",
+      "pages": [
+        116
+      ]
+    },
+    {
+      "term": "ホストプロジェクト",
+      "pages": [
+        157
+      ]
+    },
+    {
+      "term": "ポッド",
+      "pages": [
+        82
+      ]
+    },
+    {
+      "term": "ホットスポット",
+      "pages": [
+        118,
+        120
+      ]
+    },
+    {
+      "term": "ポリシー拒否監査ログ",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "term": "マイクロサービス",
+      "pages": [
+        81,
+        195
+      ]
+    },
+    {
+      "term": "マシンイメージ",
+      "pages": [
+        72,
+        73,
+        79,
+        80
+      ]
+    },
+    {
+      "term": "マシンタイプ",
+      "pages": [
+        69,
+        237
+      ]
+    },
+    {
+      "term": "マシンファミリー",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "term": "マニフェスト",
+      "pages": [
+        85,
+        91,
+        272
+      ]
+    },
+    {
+      "term": "マネージドインスタンスグループ",
+      "pages": [
+        75
+      ]
+    },
+    {
+      "term": "マネージドゾーン",
+      "pages": [
+        166
+      ]
+    },
+    {
+      "term": "マルチゾーンクラスタ",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "マルチリージョン",
+      "pages": [
+        125
+      ]
+    },
+    {
+      "term": "メッセージ",
+      "pages": [
+        139
+      ]
+    },
+    {
+      "term": "メトリクス",
+      "pages": [
+        175
+      ]
+    },
+    {
+      "term": "メモリ最適化（マシンファミリー）",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "term": "メンテナンス",
+      "pages": [
+        117
+      ]
+    },
+    {
+      "term": "メンテナンス拒否期間",
+      "pages": [
+        117
+      ]
+    },
+    {
+      "term": "モニタリング",
+      "pages": [
+        174,
+        238
+      ]
+    },
+    {
+      "term": "役割名",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "term": "ユーザー管理サービスアカウント",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "term": "ユーザー定義指標",
+      "pages": [
+        175
+      ]
+    },
+    {
+      "term": "予算アラート",
+      "pages": [
+        52
+      ]
+    },
+    {
+      "term": "ライフサイクル管理",
+      "pages": [
+        128
+      ]
+    },
+    {
+      "term": "ラベル",
+      "pages": [
+        233
+      ]
+    },
+    {
+      "term": "リージョン",
+      "pages": [
+        20,
+        125
+      ]
+    },
+    {
+      "term": "リージョン MIG",
+      "pages": [
+        76
+      ]
+    },
+    {
+      "term": "リージョン永続ディスク",
+      "pages": [
+        70
+      ]
+    },
+    {
+      "term": "リージョンクラスタ",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "term": "リージョンネットワークファイアウォールポリシー",
+      "pages": [
+        156
+      ]
+    },
+    {
+      "term": "リージョンロードバランサ",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "term": "リードレプリカ",
+      "pages": [
+        115
+      ]
+    },
+    {
+      "term": "リソース",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "term": "リソース階層",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "term": "リビジョン",
+      "pages": [
+        93
+      ]
+    },
+    {
+      "term": "リモート接続",
+      "pages": [
+        74
+      ]
+    },
+    {
+      "term": "料金",
+      "pages": [
+        192
+      ]
+    },
+    {
+      "term": "リレーショナルデータベース",
+      "pages": [
+        111
+      ]
+    },
+    {
+      "term": "列指向型",
+      "pages": [
+        111
+      ]
+    },
+    {
+      "term": "レプリケーション",
+      "pages": [
+        112,
+        115,
+        202
+      ]
+    },
+    {
+      "term": "連携クエリ",
+      "pages": [
+        137
+      ]
+    },
+    {
+      "term": "ローカル SSD",
+      "pages": [
+        70
+      ]
+    },
+    {
+      "term": "ロードバランサ",
+      "pages": [
+        160,
+        163
+      ]
+    },
+    {
+      "term": "ローリングアップデート",
+      "pages": [
+        76,
+        83
+      ]
+    },
+    {
+      "term": "ロール",
+      "pages": [
+        34,
+        35,
+        40,
+        49,
+        241
+      ]
+    },
+    {
+      "term": "ロールバインディング",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "term": "ログ",
+      "pages": [
+        55,
+        172,
+        238,
+        245
+      ]
+    },
+    {
+      "term": "ログエクスプローラ",
+      "pages": [
+        173
+      ]
+    },
+    {
+      "term": "ログバケット",
+      "pages": [
+        56
+      ]
+    },
+    {
+      "term": "ログベースの指標",
+      "pages": [
+        176
+      ]
+    },
+    {
+      "term": "ログルーター",
+      "pages": [
+        172
+      ]
+    },
+    {
+      "term": "ロケーションタイプ",
+      "pages": [
+        125
+      ]
+    },
+    {
+      "term": "割り当て",
+      "pages": [
+        232
+      ]
+    }
+  ]
+}
